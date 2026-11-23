@@ -1,0 +1,5 @@
+ATENCION: ESTE PAQUETE NO CONTIENE TUS CREDENCIALES DE SUPABASE.
+Antes de publicarlo, reemplaza config.js por el config.js del sitio que funciona actualmente.
+SOLO claves publicas y URL del proyecto ACTUAL, NUNCA service_role/secret.
+El codigo nuevo agrega la explicacion y pruebas de SALDO AFECTADO del Google Form.
+Lee CAMBIOS_V6_SALDO_AFECTADO.md en el proyecto completo.
